@@ -15,3 +15,7 @@ target
 
 .DS_Store
 hello_world/main
+
+# Added by cargo
+
+/target
